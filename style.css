@@ -1,0 +1,11 @@
+.nav-link{
+    color: white;
+    padding-left: 60px;
+    
+}
+
+@media(min-width: 480px){
+    container {
+        flex-direction: column;
+    }
+}
